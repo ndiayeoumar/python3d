@@ -47,8 +47,8 @@ python-3d-journey/
 
 ```bash
 # Create dedicated conda environment
-conda create -n 3d-python python=3.11
-conda activate 3d-python
+conda create -n python3d python=3.11
+conda activate python3d
 
 # phase 1 & 4 dependencies
 pip install trimesh numpy open3d scipy
