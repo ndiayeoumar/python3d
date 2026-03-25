@@ -1,0 +1,17 @@
+# Phase 1 & 4 — Mesh foundations + data-driven meshes
+trimesh
+numpy
+open3d
+scipy
+matplotlib
+pyglet          # for macOS users
+
+
+# Phase 2 — Parametric CAD
+# cadquery  # install separately: pip install cadquery
+
+# Phase 3 — Blender scripting (IDE autocompletion only; Blender uses its own Python)
+# fake-bpy-module  # install separately: pip install fake-bpy-module
+
+# Optional
+# jupyter
